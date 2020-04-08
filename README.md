@@ -32,7 +32,6 @@ Changes:
 Short-term objectives:
 
 -Automatically generated levels
--Implement experience and leveling up pilots
 -Make retreating from battles possible
 -Switch stats to 0-100 range
 -Totally rework the battles, giving more emphasis to attack stats and allowing a single unit to strike multiple times
