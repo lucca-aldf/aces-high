@@ -45,7 +45,7 @@ Long-term objectives:
 -Switch to ~~a mouse-based UI~~ Unity
 -Add new battle mode against enemy ace squadrons
 -Implement passage of time (Possible timespan from WW1 to near-future)
--Switch to using fictional aircraft
+-Expand list of fictional aircraft
 -Expand the list of enemies, possibly using procedural generation
 -Hiring system for new pilots and capture/retirement conditions
 
